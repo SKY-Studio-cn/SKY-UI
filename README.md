@@ -20,10 +20,10 @@ A new version of SKY UI
 
 ## Compare with *OTHER VERSION*
 
-|Compare wit|Scratch|TurboWarp|02Engine|SKYEngine|
-|-----------|-----------|-----------|-----------|-----------|
-|Operating speed|60%|80%|98%|86%|
-|Practicality|57%|83%|92%|88%|
+|Compare wit|SKY UI|SKY UI NEXT|
+|-----------|-----------|-----------|
+|Operating speed|60%|80%|
+|Practicality|57%|83%|
 
 ## Contributing
 
