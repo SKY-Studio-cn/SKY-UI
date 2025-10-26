@@ -4,8 +4,8 @@
 
 ## **What is it？**
 
-*   A modified version of TurboWarp.
-*   Run Scratch projects faster.
+*   A Scratch mobile OS powered by SKY Engine
+*   Simulate a real mobile operating system
 
 ## **What can it do？**
 *    For us
