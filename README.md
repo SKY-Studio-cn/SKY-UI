@@ -1,6 +1,6 @@
 # SKY UI
 
-![SKY Engine Title](/SKYUI-Title.png)
+![SKYUI-Title](/SKYUI-Title.png)
 
 ## **What is it？**
 
