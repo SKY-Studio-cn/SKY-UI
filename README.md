@@ -5,22 +5,14 @@
 ## **What is it？**
 
 *   A Scratch mobile OS powered by SKY Engine
-*   Simulate a real mobile operating system
+*   A project to simulate a real mobile operating system
 
 ## **What can it do？**
-*    For us
-     * Better to update SKY UI/OS
-*    For Developers
 
-     * Better to make apps for SKY UI/OS
-     
-     * Check you app quickly
-     
-*    For Users
-     * Better to running your scratch projects
-     * Many more new extensions
+* Simulate a real mobile operating system
+* Many more new extensions
 
- ## Compare with *other editor*
+ ## Compare with *OTHER VERSION*
 
 |Compare wit|Scratch|TurboWarp|02Engine|SKYEngine|
 |-----------|-----------|-----------|-----------|-----------|
