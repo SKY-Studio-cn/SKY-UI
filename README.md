@@ -12,7 +12,9 @@
 * Simulate a real mobile operating system
 * Many more new extensions
 
-# The *NEW* Version SKY UI NEXT A new version of SKY UI
+# The *NEW* Version *SKY UI NEXT*
+
+A new version of SKY UI
 
 ## Compare with *OTHER VERSION*
 
