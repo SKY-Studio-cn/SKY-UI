@@ -22,8 +22,8 @@ A new version of SKY UI
 
 |Compare wit|SKY UI|SKY UI NEXT|
 |-----------|-----------|-----------|
-|Operating speed|60%|80%|
-|Practicality|57%|83%|
+|Operating speed|55%|90%|
+|Practicality|25%|62%|
 
 ## Contributing
 
