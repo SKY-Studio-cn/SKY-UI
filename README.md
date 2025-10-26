@@ -9,7 +9,6 @@
 
 ## **What can it do？**
 
-*  A Scratch mobile OS powered by SKY Engine
 *  A project to simulate a real mobile operating system
 
 # The *NEW* Version *SKY UI NEXT*
