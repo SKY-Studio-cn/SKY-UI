@@ -28,9 +28,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## About Developer Terms
 
-See [CONTRIBUTING.md](SKYUIDeveloperAgreement.md).
+See [SKY UI Developer Agreement(English)](SKYUIDeveloperAgreement(English).md).
 
-See [CONTRIBUTING.md](SKYUI开发者协议.md).
+See [SKY UI开发者协议（简体中文）](SKYUI开发者协议（简体中文）.md).
 
 ## to users
 
