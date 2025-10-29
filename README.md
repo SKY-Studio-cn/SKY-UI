@@ -26,6 +26,12 @@ A new version of SKY UI
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## About Developer Terms
+
+See [CONTRIBUTING.md](SKYUIDeveloperAgreement.md).
+
+See [CONTRIBUTING.md](SKYUI开发者协议.md).
+
 ## to users
 
 # Tech No Logy.  ———— by shxUwU（FreeUI Official）
